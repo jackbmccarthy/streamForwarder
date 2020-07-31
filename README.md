@@ -1,4 +1,4 @@
-# rect Stream Forwarder -- A simple web interface for stream to Facebook and another platform.
+# Stream Forwarder -- A simple web interface for stream to Facebook and other platforms.
 
 This project was created as a direct response to the NGINX RTMP Module not being able to stream to Facebook due to the SSL/TLS encryption. After searching for hours, it seems that NGINX will not be able to do this.
 
